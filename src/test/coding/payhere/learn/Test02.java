@@ -13,8 +13,6 @@ public class Test02 {
 
         int[][] answer = getAnswer(intervals);
 
-
-
     }
 
     private static int[][] getAnswer(int[][] intervals) {
